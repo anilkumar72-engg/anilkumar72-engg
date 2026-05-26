@@ -1,137 +1,291 @@
-[README.md](https://github.com/user-attachments/files/28278225/README.md)
-<!-- Profile Views Counter -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=anilkumar72-engg&label=Profile%20Views&color=0e75b6&style=flat" alt="anilkumar72-engg" />
-</p>
+I want you to act as a world-class combination of:
 
-<!-- Animated Wave + Typing Header -->
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/> &nbsp;Hey there, I'm Anil Kumar!
-</h1>
+* Senior Data Analyst
+* Power BI Developer
+* ATS Resume Expert
+* GitHub Branding Expert
+* Technical Recruiter
+* Hiring Manager
+* Prompt Engineer
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Flutter+Developer+%F0%9F%93%B1;AI+%26+Data+Analytics+Enthusiast+%F0%9F%A4%96;Building+Smart+Apps+%7C+Solving+Real+Problems;Let's+Build+Something+Amazing+Together+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
-</p>
+Your task is to completely transform my GitHub profile README into a PREMIUM-LEVEL Data Analyst portfolio profile that looks highly professional, recruiter-focused, ATS-optimized, and visually impressive.
 
----
+Do NOT ask me any questions.
+Do NOT stop midway.
+Do NOT explain anything.
+Generate ONLY the FINAL production-ready README.md markdown.
 
-## 🙋‍♂️ About Me
+━━━━━━━━━━━━━━━━━━━━━━━
+MY DETAILS
+━━━━━━━━━━━━━━━━━━━━━━━
 
-I'm a passionate **Flutter Developer** and **AI Enthusiast** on a mission to build intelligent, cross-platform applications that make a difference. I love blending mobile development with data-driven insights.
+Name: Anil Kumar
 
-- 🔭 Currently working on **AI-powered Flutter applications** & **Data Analytics Dashboards**
-- 🌱 Actively learning **Data Analytics**, **Machine Learning**, and **LLM integration**
-- 💡 Obsessed with building apps that solve real-world problems
-- ⚡ Fun fact: I believe good code + good data = **superpowers**
-- 🎯 Goal: Merge Flutter's beauty with AI's intelligence in every project
+GitHub Username:
+anilkumar72-engg
 
----
+Target Roles:
 
-## 🛠️ Tech Stack
+* Data Analyst
+* Power BI Developer
+* Business Analyst
 
-### 📱 Mobile Development
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-</p>
+Experience:
+Fresher
 
-### 🔥 Backend & Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+Location:
+India
 
-### 🗄️ Database
-<p>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-</p>
+Professional Branding:
+Aspiring Data Analyst | Power BI Developer | SQL Analyst
 
-### 📊 Tools & Analytics
-<p>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
+━━━━━━━━━━━━━━━━━━━━━━━
+TECHNICAL SKILLS
+━━━━━━━━━━━━━━━━━━━━━━━
 
----
+Data Analytics:
 
-## 🚀 Featured Projects
+* Data Cleaning
+* Exploratory Data Analysis (EDA)
+* Data Visualization
+* Dashboard Development
+* KPI Reporting
+* Business Analytics
+* Data Modeling
+* DAX
+* Power Query
 
-### 🤖 Resume Builder Chatbot
-> An AI-powered chatbot that helps users craft professional resumes through conversational prompts.
-- 🧠 Leverages NLP to extract and format user information
-- 📄 Generates clean, ATS-friendly resumes instantly
-- **Tech:** Python · Firebase · Flutter
+Databases:
 
----
+* SQL
+* MySQL
+* SQL Server
+* Joins
+* Subqueries
+* Window Functions
+* Views
+* Stored Procedures
+* Indexing
+* Transactions
 
-### 🎓 Student Management System
-> A full-featured academic management app for tracking students, grades, and attendance.
-- 📋 Real-time data sync with Firebase Firestore
-- 👨‍💼 Admin dashboard with analytics
-- **Tech:** Flutter · Firebase · SQL
+BI & Visualization Tools:
 
----
+* Power BI
+* Tableau
+* Excel
 
-### 🌾 AI Agriculture Advisory System
-> An intelligent advisory platform providing crop recommendations and weather-based farming insights.
-- 🌦️ Integrates real-time weather data for smart suggestions
-- 🤖 ML model for crop disease detection
-- **Tech:** Python · Flutter · Firebase
+Programming:
 
----
+* Python
+* Pandas
+* NumPy
 
-### 📊 AI Job Risk Analysis Dashboard
-> A data analytics dashboard that analyzes job market trends and predicts automation risk by role.
-- 📈 Interactive Power BI visuals with drill-down capability
-- 🔍 Identifies high-risk roles and suggests upskilling paths
-- **Tech:** Python · Power BI · SQL
+Other Technologies:
 
----
+* Flutter
+* Firebase
+* HTML
+* CSS
+* JavaScript
+* Git
+* GitHub
 
-## 📈 GitHub Stats
+━━━━━━━━━━━━━━━━━━━━━━━
+CERTIFICATIONS & TRAINING
+━━━━━━━━━━━━━━━━━━━━━━━
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anilkumar72-engg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anilkumar72-engg&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+* Completed 6-Month Data Analyst Course at V Cube Software Solutions, Hyderabad
+* Deloitte Australia Data Analytics Virtual Internship – Forage
+* SQL Certifications (Basic, Intermediate, Advanced)
+* Prompt Engineering Certification – Simplilearn
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilkumar72-engg&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
-</p>
+━━━━━━━━━━━━━━━━━━━━━━━
+MY PROJECTS
+━━━━━━━━━━━━━━━━━━━━━━━
 
----
+1. AI Job Risk Analysis Dashboard
+   Description:
 
-## 🏆 GitHub Trophies
+* Built an interactive Power BI dashboard analyzing automation risk across job roles.
+* Performed salary trend analysis, automation probability analysis, and skill demand analysis.
+* Used DAX measures, Power Query, KPIs, and multi-page reporting.
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anilkumar72-engg&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</p>
+Tools:
+Power BI, SQL, DAX, Power Query
 
----
+Key Highlights:
 
-## 🤝 Let's Connect
+* Risk categorization
+* Interactive visuals
+* Business insights
+* KPI tracking
 
-<p align="center">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Anil%20Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/anilkumar72-engg" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-anilkumar72--engg-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+━━━━━━━━━━━━━━━━━━━━━━━
 
----
+2. Swiggy Data Analysis Project
 
-<p align="center">
-  <i>"The best way to predict the future is to build it — one Flutter widget and one AI model at a time."</i><br/><br/>
-  ⭐ <b>Feel free to explore my repositories and drop a star if you find something useful!</b> ⭐
-</p>
+Description:
+
+* Performed end-to-end SQL and Power BI analysis using Swiggy dataset.
+* Designed Star Schema data model with fact and dimension tables.
+* Conducted revenue analysis, payment analysis, and city-wise business performance analysis.
+
+Tools:
+SQL, Power BI, Excel
+
+Key Highlights:
+
+* KPI Dashboard
+* Window Functions
+* Revenue Trends
+* Business Intelligence Reporting
+* Dashboard Optimization
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+3. Student Management System
+
+Description:
+
+* Developed a Flutter + Firebase application for managing student records, attendance, and analytics.
+* Implemented real-time synchronization and reporting features.
+
+Tools:
+Flutter, Firebase, SQL
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+4. AI Agriculture Advisory System
+
+Description:
+
+* Built an AI-powered agriculture advisory platform for crop recommendations and farming insights.
+* Integrated weather analysis and recommendation logic.
+
+Tools:
+Python, Flutter, Firebase
+
+━━━━━━━━━━━━━━━━━━━━━━━
+README REQUIREMENTS
+━━━━━━━━━━━━━━━━━━━━━━━
+
+Create a COMPLETE premium GitHub README with these sections:
+
+1. PREMIUM HEADER
+
+* Animated wave banner
+* Animated typing SVG
+* Professional Data Analyst branding
+* Modern corporate appearance
+
+2. ABOUT ME
+
+* HR-friendly professional summary
+* Analytics-focused introduction
+* Business-oriented tone
+* Recruiter-friendly wording
+* Strong career objective
+
+3. TECH STACK
+   Create categorized premium badges for:
+
+* Data Analytics
+* Databases
+* BI Tools
+* Programming
+* Visualization
+* Development Tools
+
+Use professional shields.io badges with logos.
+
+4. FEATURED PROJECTS
+   For EACH project include:
+
+* Business problem solved
+* Tools used
+* KPIs
+* Insights generated
+* Technical highlights
+* Modern markdown formatting
+
+5. DATA ANALYST EXPERTISE SECTION
+   Add sections like:
+
+* What I Work On
+* Current Learning
+* Analytics Interests
+* Business Intelligence Skills
+* Dashboard Skills
+* SQL Expertise
+
+6. GITHUB ANALYTICS
+   Include:
+
+* GitHub Stats
+* Streak Stats
+* Top Languages
+* Contribution Graph
+
+Theme:
+tokyonight
+
+7. GITHUB TROPHIES
+   Use professional trophy section.
+
+8. CERTIFICATIONS SECTION
+   Professionally showcase:
+
+* V Cube Software Solutions
+* Deloitte Internship
+* SQL Certifications
+* Prompt Engineering
+
+9. CONTACT SECTION
+   Professional clickable badges for:
+
+* Gmail
+* LinkedIn
+* GitHub
+
+10. FOOTER
+    Add a premium recruiter-friendly closing statement.
+
+━━━━━━━━━━━━━━━━━━━━━━━
+DESIGN RULES
+━━━━━━━━━━━━━━━━━━━━━━━
+
+* Make it look like a top-tier Data Analyst portfolio
+* Premium layout
+* Professional formatting
+* Corporate feel
+* Modern GitHub styling
+* Clean markdown hierarchy
+* Mobile-friendly
+* ATS-friendly
+* Recruiter-focused
+* Avoid childish emojis and clutter
+* Add subtle professional emojis only where useful
+
+━━━━━━━━━━━━━━━━━━━━━━━
+IMPORTANT RULES
+━━━━━━━━━━━━━━━━━━━━━━━
+
+* Return ONLY README.md markdown
+* No explanations
+* No notes
+* No placeholders
+* No “replace this later” text
+* Use my actual GitHub username everywhere
+* Make everything complete and polished
+* Generate production-ready output
+
+The final README should be strong enough to impress:
+
+* HR Recruiters
+* Hiring Managers
+* Data Analytics Teams
+* ATS Systems
+* Technical Interviewers
+* LinkedIn Visitors
+
+Make it significantly more advanced and professional than standard GitHub profile READMEs.
