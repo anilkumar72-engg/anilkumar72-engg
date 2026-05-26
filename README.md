@@ -1,4 +1,4 @@
-[README (1).md](https://github.com/user-attachments/files/28278416/README.1.md)
+[README (2).md](https://github.com/user-attachments/files/28278477/README.2.md)
 <!-- Profile Views -->
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=anilkumar72-engg&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
@@ -6,7 +6,7 @@
 
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Anil%20Kumar&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Data%20Analyst%20%7C%20Power%20BI%20Developer%20%7C%20SQL%20Analyst&descSize=18&descAlignY=58&descColor=A8D8EA" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,30:16213E,60:0F3460,100:E94560&height=220&section=header&text=Anil%20Kumar&fontSize=58&fontColor=FFFFFF&fontAlignY=38&fontAlign=50&desc=Data%20Analyst%20%7C%20Power%20BI%20Developer%20%7C%20SQL%20Analyst&descSize=19&descAlignY=58&descAlign=50&descColor=F5F5F5&stroke=E94560&strokeWidth=2" width="100%" />
 </div>
 
 <!-- Typing SVG -->
@@ -257,7 +257,7 @@ Completed a **Deloitte Australia Data Analytics Virtual Internship** (Forage), d
 
 <!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E94560,40:0F3460,70:16213E,100:1A1A2E&height=140&section=footer" width="100%" />
 </div>
 
 <p align="center">
